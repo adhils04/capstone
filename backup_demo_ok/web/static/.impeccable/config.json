@@ -1,0 +1,17 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "flat-type-hierarchy",
+        "value": "*",
+        "files": [
+          "web/static/index.html"
+        ],
+        "createdAt": "2026-11-19T18:23:02.101Z",
+        "reason": "agent triage: false positive, h1 is clamp(2.6rem,5.6vw,4.9rem) vs 16px body and 1.2rem lede, set in style.css"
+      }
+    ]
+  }
+}

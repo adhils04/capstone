@@ -1,0 +1,18 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 4255.51it/s]
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|██████████| 103/103 [00:00<00:00, 3313.82it/s]
+/Users/adhil/capstone-llm-defense/src/mappo.py:290: UserWarning: Converting a tensor with requires_grad=True to a scalar may lead to unexpected behavior.
+Consider using tensor.detach() first. (Triggered internally at /Users/runner/work/pytorch/pytorch/torch/csrc/autograd/generated/python_variable_methods.cpp:821.)
+  log["critic_loss"] = float(c_loss)
+[mappo] it  0 leak=0.17 R_d=+0.39 R_a=+0.29 benign_ref=0.00 deg_a=0.00 r0_d=1.015 kl_d=-0.142 kl_a=-0.041 80s
+[mappo] it  2 leak=0.25 R_d=+0.09 R_a=+0.34 benign_ref=0.00 deg_a=0.00 r0_d=1.001 kl_d=+0.005 kl_a=+0.017 288s
+[mappo] it  4 leak=0.12 R_d=+0.24 R_a=+0.28 benign_ref=0.00 deg_a=0.00 r0_d=0.995 kl_d=+0.013 kl_a=+0.141 523s
+[mappo] it  6 leak=0.00 R_d=+0.49 R_a=+0.19 benign_ref=0.00 deg_a=0.00 r0_d=1.003 kl_d=+0.026 kl_a=+0.310 740s
+[mappo] it  8 leak=0.00 R_d=+0.51 R_a=+0.20 benign_ref=0.00 deg_a=0.00 r0_d=0.992 kl_d=+0.166 kl_a=+0.377 919s
+[mappo] it 10 leak=0.07 R_d=+0.46 R_a=+0.20 benign_ref=0.00 deg_a=0.00 r0_d=1.003 kl_d=+0.101 kl_a=+0.499 1089s
+[mappo] it 12 leak=0.00 R_d=+0.54 R_a=+0.14 benign_ref=0.00 deg_a=0.00 r0_d=1.012 kl_d=+0.164 kl_a=+0.558 1263s
+[mappo] it 14 leak=0.00 R_d=+0.44 R_a=+0.24 benign_ref=0.00 deg_a=0.00 r0_d=0.991 kl_d=+0.414 kl_a=+0.689 1428s
+[mappo] it 16 leak=0.00 R_d=+0.40 R_a=+0.28 benign_ref=0.00 deg_a=0.00 r0_d=1.007 kl_d=+0.553 kl_a=+0.858 1574s
+[mappo] it 18 leak=0.00 R_d=+0.64 R_a=+0.16 benign_ref=0.00 deg_a=0.00 r0_d=1.000 kl_d=+0.666 kl_a=+0.968 1711s
+[mappo] it 19 leak=0.00 R_d=+0.54 R_a=+0.18 benign_ref=0.00 deg_a=0.00 r0_d=1.000 kl_d=+0.464 kl_a=+0.996 1784s
+[mappo] saved -> runs/mappo_s1 (1786s)

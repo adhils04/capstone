@@ -1,0 +1,32 @@
+{
+ "base": {
+  "mean_f1": 0.3232602759414914,
+  "answered_rate": 0.5416666666666666,
+  "uninformative_rate": 0.4583333333333333,
+  "n": 24
+ },
+ "sft": {
+  "mean_f1": 0.5804292622186275,
+  "answered_rate": 1.0,
+  "uninformative_rate": 0.0,
+  "n": 24
+ },
+ "mappo_v1": {
+  "mean_f1": 0.14573233257061305,
+  "answered_rate": 0.375,
+  "uninformative_rate": 0.625,
+  "n": 24
+ },
+ "mappo": {
+  "mean_f1": 0.3581787054753003,
+  "answered_rate": 0.75,
+  "uninformative_rate": 0.25,
+  "n": 24
+ },
+ "mappo_s1": {
+  "mean_f1": 0.378980323646084,
+  "answered_rate": 0.7083333333333334,
+  "uninformative_rate": 0.2916666666666667,
+  "n": 24
+ }
+}

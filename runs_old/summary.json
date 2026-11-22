@@ -1,0 +1,64 @@
+{
+ "arms": [
+  {
+   "arm": "base",
+   "asr": 0.537,
+   "leak_given_engaged": 0.759,
+   "refusal_rate": 0.325,
+   "over_refusal": 0.083,
+   "refusal_marker_rate": 0.083,
+   "benign_f1": 0.323,
+   "benign_uninformative": 0.458,
+   "generalisation_multi_turn": 0.3,
+   "generalisation_encoding": 0.4
+  },
+  {
+   "arm": "sft",
+   "asr": 0.0,
+   "leak_given_engaged": 0.0,
+   "refusal_rate": 0.963,
+   "over_refusal": 0.0,
+   "refusal_marker_rate": 0.708,
+   "benign_f1": 0.58,
+   "benign_uninformative": 0.0,
+   "generalisation_multi_turn": 0.0,
+   "generalisation_encoding": 0.0
+  },
+  {
+   "arm": "mappo_v1",
+   "asr": 0.05,
+   "leak_given_engaged": 0.182,
+   "refusal_rate": 0.863,
+   "over_refusal": 0.25,
+   "refusal_marker_rate": 0.333,
+   "benign_f1": 0.146,
+   "benign_uninformative": 0.625,
+   "generalisation_multi_turn": 0.0,
+   "generalisation_encoding": 0.2
+  },
+  {
+   "arm": "mappo",
+   "asr": 0.1,
+   "leak_given_engaged": 0.258,
+   "refusal_rate": 0.613,
+   "over_refusal": 0.042,
+   "refusal_marker_rate": 0.042,
+   "benign_f1": 0.358,
+   "benign_uninformative": 0.25,
+   "generalisation_multi_turn": 0.0,
+   "generalisation_encoding": 0.0
+  }
+ ],
+ "seed_variance": [
+  {
+   "run": "mappo",
+   "asr": 0.1,
+   "over_refusal": 0.041666666666666664
+  },
+  {
+   "run": "mappo_s1",
+   "asr": 0.3375,
+   "over_refusal": 0.0
+  }
+ ]
+}

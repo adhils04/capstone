@@ -1,0 +1,24 @@
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 13494.44it/s]
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|██████████| 103/103 [00:00<00:00, 11855.47it/s]
+[mappo] it  0 leak=0.00 R_d=+0.73 R_a=+0.11 benign_ref=0.00 deg_a=0.00 r0_d=1.001 kl_d=-0.028 kl_a=+0.011 12s
+[mappo] it  2 leak=0.14 R_d=+0.33 R_a=+0.31 benign_ref=0.00 deg_a=0.00 r0_d=0.998 kl_d=+0.027 kl_a=+0.177 36s
+[mappo] it  4 leak=0.12 R_d=+0.23 R_a=+0.37 benign_ref=0.00 deg_a=0.00 r0_d=1.001 kl_d=+0.051 kl_a=+0.530 54s
+[mappo] it  6 leak=0.25 R_d=+0.55 R_a=+0.20 benign_ref=0.00 deg_a=0.00 r0_d=0.999 kl_d=-0.002 kl_a=+0.580 71s
+[mappo] it  8 leak=0.33 R_d=+0.23 R_a=+0.36 benign_ref=0.00 deg_a=0.00 r0_d=1.007 kl_d=+0.172 kl_a=+0.941 88s
+[mappo] it 10 leak=0.00 R_d=+0.60 R_a=+0.15 benign_ref=0.00 deg_a=0.00 r0_d=1.003 kl_d=+0.199 kl_a=+1.534 104s
+[mappo] it 12 leak=0.00 R_d=+0.10 R_a=+0.12 benign_ref=0.67 deg_a=0.00 r0_d=0.996 kl_d=+0.421 kl_a=+1.543 121s
+[mappo] it 14 leak=0.00 R_d=+0.48 R_a=+0.11 benign_ref=0.25 deg_a=0.00 r0_d=1.013 kl_d=+0.326 kl_a=+1.689 135s
+[mappo] it 16 leak=0.12 R_d=+0.22 R_a=+0.37 benign_ref=0.00 deg_a=0.00 r0_d=0.999 kl_d=+0.540 kl_a=+2.447 150s
+[mappo] it 18 leak=0.00 R_d=+0.63 R_a=+0.17 benign_ref=0.00 deg_a=0.00 r0_d=0.994 kl_d=+0.606 kl_a=+2.104 166s
+[mappo] it 20 leak=0.00 R_d=+0.62 R_a=+0.17 benign_ref=0.00 deg_a=0.00 r0_d=0.998 kl_d=+0.312 kl_a=+1.290 184s
+[mappo] it 22 leak=0.00 R_d=+0.70 R_a=+0.14 benign_ref=0.00 deg_a=0.00 r0_d=1.006 kl_d=+0.740 kl_a=+2.263 199s
+[mappo] it 24 leak=0.00 R_d=+0.43 R_a=+0.22 benign_ref=0.00 deg_a=0.00 r0_d=0.998 kl_d=+0.936 kl_a=+1.942 216s
+[mappo] it 26 leak=0.00 R_d=+0.62 R_a=+0.17 benign_ref=0.00 deg_a=0.00 r0_d=1.002 kl_d=+1.530 kl_a=+1.974 232s
+[mappo] it 28 leak=0.00 R_d=+0.55 R_a=+0.21 benign_ref=0.00 deg_a=0.00 r0_d=0.985 kl_d=+1.757 kl_a=+2.016 248s
+[mappo] it 30 leak=0.00 R_d=+0.63 R_a=+0.17 benign_ref=0.00 deg_a=0.00 r0_d=0.998 kl_d=+1.914 kl_a=+2.180 266s
+[mappo] it 32 leak=0.00 R_d=+0.63 R_a=+0.17 benign_ref=0.00 deg_a=0.00 r0_d=0.993 kl_d=+1.471 kl_a=+2.528 283s
+[mappo] it 34 leak=0.00 R_d=+0.47 R_a=+0.21 benign_ref=0.00 deg_a=0.00 r0_d=0.996 kl_d=+1.961 kl_a=+2.735 299s
+[mappo] it 36 leak=0.00 R_d=+0.48 R_a=+0.24 benign_ref=0.00 deg_a=0.00 r0_d=0.977 kl_d=+2.082 kl_a=+2.701 315s
+[mappo] it 38 leak=0.00 R_d=+0.40 R_a=+0.21 benign_ref=0.00 deg_a=0.00 r0_d=0.998 kl_d=+1.388 kl_a=+3.463 331s
+[mappo] it 39 leak=0.00 R_d=+0.55 R_a=+0.21 benign_ref=0.00 deg_a=0.00 r0_d=1.001 kl_d=+1.302 kl_a=+2.732 340s
+[mappo] saved -> runs/mappo_s1 (341s)
