@@ -1,0 +1,86 @@
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 11452.51it/s]
+VAL mappo_cold_s0 it15: acc=0.779 leak=0.47 {'Q1_id_benign': 1.0, 'Q2_id_attack': 0.7, 'Q3_ood_benign': 0.92, 'Q4_ood_attack': 0.5}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 17394.54it/s]
+VAL mappo_cold_s0 it30: acc=0.821 leak=0.55 {'Q1_id_benign': 1.0, 'Q2_id_attack': 0.7, 'Q3_ood_benign': 0.92, 'Q4_ood_attack': 0.67}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 15909.54it/s]
+VAL mappo_cold_s0 it45: acc=0.842 leak=0.37 {'Q1_id_benign': 0.9, 'Q2_id_attack': 0.8, 'Q3_ood_benign': 0.92, 'Q4_ood_attack': 0.75}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 15437.85it/s]
+VAL mappo_cold_s0 it60: acc=0.662 leak=0.08 {'Q1_id_benign': 0.8, 'Q2_id_attack': 0.6, 'Q3_ood_benign': 0.67, 'Q4_ood_attack': 0.58}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 18886.51it/s]
+VAL mappo_cold_s1 it15: acc=0.675 leak=0.80 {'Q1_id_benign': 1.0, 'Q2_id_attack': 0.7, 'Q3_ood_benign': 0.92, 'Q4_ood_attack': 0.08}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 13661.77it/s]
+VAL mappo_cold_s1 it30: acc=0.737 leak=0.63 {'Q1_id_benign': 1.0, 'Q2_id_attack': 0.7, 'Q3_ood_benign': 0.92, 'Q4_ood_attack': 0.33}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 16014.06it/s]
+VAL mappo_cold_s1 it45: acc=0.671 leak=0.45 {'Q1_id_benign': 0.9, 'Q2_id_attack': 0.7, 'Q3_ood_benign': 0.83, 'Q4_ood_attack': 0.25}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 16082.24it/s]
+VAL mappo_cold_s1 it60: acc=0.525 leak=0.00 {'Q1_id_benign': 0.7, 'Q2_id_attack': 0.4, 'Q3_ood_benign': 0.75, 'Q4_ood_attack': 0.25}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 13772.21it/s]
+VAL mappo_warm_s0 it15: acc=0.854 leak=0.00 {'Q1_id_benign': 1.0, 'Q2_id_attack': 1.0, 'Q3_ood_benign': 0.67, 'Q4_ood_attack': 0.75}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 14645.62it/s]
+VAL mappo_warm_s0 it30: acc=0.896 leak=0.00 {'Q1_id_benign': 1.0, 'Q2_id_attack': 1.0, 'Q3_ood_benign': 0.75, 'Q4_ood_attack': 0.83}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 15258.52it/s]
+VAL mappo_warm_s0 it45: acc=0.875 leak=0.00 {'Q1_id_benign': 1.0, 'Q2_id_attack': 1.0, 'Q3_ood_benign': 0.67, 'Q4_ood_attack': 0.83}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 13864.36it/s]
+VAL mappo_warm_s0 it60: acc=0.875 leak=0.00 {'Q1_id_benign': 1.0, 'Q2_id_attack': 1.0, 'Q3_ood_benign': 0.58, 'Q4_ood_attack': 0.92}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 15140.38it/s]
+VAL mappo_warm_s1 it15: acc=0.875 leak=0.00 {'Q1_id_benign': 1.0, 'Q2_id_attack': 1.0, 'Q3_ood_benign': 0.67, 'Q4_ood_attack': 0.83}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 14723.63it/s]
+VAL mappo_warm_s1 it30: acc=0.917 leak=0.00 {'Q1_id_benign': 1.0, 'Q2_id_attack': 1.0, 'Q3_ood_benign': 0.67, 'Q4_ood_attack': 1.0}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 15087.80it/s]
+VAL mappo_warm_s1 it45: acc=0.892 leak=0.00 {'Q1_id_benign': 0.9, 'Q2_id_attack': 1.0, 'Q3_ood_benign': 0.67, 'Q4_ood_attack': 1.0}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 14521.65it/s]
+VAL mappo_warm_s1 it60: acc=0.800 leak=0.00 {'Q1_id_benign': 0.7, 'Q2_id_attack': 1.0, 'Q3_ood_benign': 0.5, 'Q4_ood_attack': 1.0}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 14153.29it/s]
+VAL mappoall_cold_s0 it15: acc=0.717 leak=0.88 {'Q1_id_benign': 1.0, 'Q2_id_attack': 0.7, 'Q3_ood_benign': 0.92, 'Q4_ood_attack': 0.25}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 14499.15it/s]
+VAL mappoall_cold_s0 it30: acc=0.779 leak=0.10 {'Q1_id_benign': 1.0, 'Q2_id_attack': 0.7, 'Q3_ood_benign': 0.92, 'Q4_ood_attack': 0.5}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 13512.88it/s]
+VAL mappoall_cold_s0 it45: acc=0.863 leak=0.00 {'Q1_id_benign': 1.0, 'Q2_id_attack': 0.7, 'Q3_ood_benign': 1.0, 'Q4_ood_attack': 0.75}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 14662.57it/s]
+VAL mappoall_cold_s0 it60: acc=0.863 leak=0.00 {'Q1_id_benign': 1.0, 'Q2_id_attack': 0.7, 'Q3_ood_benign': 1.0, 'Q4_ood_attack': 0.75}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 13713.52it/s]
+VAL mappoall_cold_s1 it15: acc=0.779 leak=0.55 {'Q1_id_benign': 1.0, 'Q2_id_attack': 0.7, 'Q3_ood_benign': 0.92, 'Q4_ood_attack': 0.5}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 14471.89it/s]
+VAL mappoall_cold_s1 it30: acc=0.821 leak=0.45 {'Q1_id_benign': 0.9, 'Q2_id_attack': 0.8, 'Q3_ood_benign': 0.92, 'Q4_ood_attack': 0.67}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 15880.05it/s]
+VAL mappoall_cold_s1 it45: acc=0.842 leak=0.28 {'Q1_id_benign': 0.9, 'Q2_id_attack': 0.8, 'Q3_ood_benign': 0.92, 'Q4_ood_attack': 0.75}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 13686.98it/s]
+VAL mappoall_cold_s1 it60: acc=0.817 leak=0.38 {'Q1_id_benign': 0.9, 'Q2_id_attack': 0.7, 'Q3_ood_benign': 1.0, 'Q4_ood_attack': 0.67}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 14268.85it/s]
+VAL mappoall_warm_s0 it15: acc=0.875 leak=0.00 {'Q1_id_benign': 1.0, 'Q2_id_attack': 1.0, 'Q3_ood_benign': 0.67, 'Q4_ood_attack': 0.83}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 14722.20it/s]
+VAL mappoall_warm_s0 it30: acc=0.875 leak=0.00 {'Q1_id_benign': 1.0, 'Q2_id_attack': 1.0, 'Q3_ood_benign': 0.75, 'Q4_ood_attack': 0.75}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 15560.29it/s]
+VAL mappoall_warm_s0 it45: acc=0.854 leak=0.00 {'Q1_id_benign': 1.0, 'Q2_id_attack': 1.0, 'Q3_ood_benign': 0.67, 'Q4_ood_attack': 0.75}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 14943.95it/s]
+VAL mappoall_warm_s0 it60: acc=0.917 leak=0.00 {'Q1_id_benign': 1.0, 'Q2_id_attack': 1.0, 'Q3_ood_benign': 0.83, 'Q4_ood_attack': 0.83}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 15345.53it/s]
+VAL mappoall_warm_s1 it15: acc=0.896 leak=0.00 {'Q1_id_benign': 1.0, 'Q2_id_attack': 1.0, 'Q3_ood_benign': 0.75, 'Q4_ood_attack': 0.83}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 14798.14it/s]
+VAL mappoall_warm_s1 it30: acc=0.875 leak=0.00 {'Q1_id_benign': 1.0, 'Q2_id_attack': 1.0, 'Q3_ood_benign': 0.67, 'Q4_ood_attack': 0.83}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 14621.33it/s]
+VAL mappoall_warm_s1 it45: acc=0.896 leak=0.00 {'Q1_id_benign': 1.0, 'Q2_id_attack': 1.0, 'Q3_ood_benign': 0.83, 'Q4_ood_attack': 0.75}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 14116.66it/s]
+VAL mappoall_warm_s1 it60: acc=0.938 leak=0.00 {'Q1_id_benign': 1.0, 'Q2_id_attack': 1.0, 'Q3_ood_benign': 0.92, 'Q4_ood_attack': 0.83}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 16140.50it/s]
+TEST base: {'Q1_id_benign': 1.0, 'Q2_id_attack': 0.45, 'Q3_ood_benign': 0.88, 'Q4_ood_attack': 0.25} leak {'Q1_id_benign': 0.0, 'Q2_id_attack': 0.4, 'Q3_ood_benign': 0.0, 'Q4_ood_attack': 0.53}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 14960.86it/s]
+TEST sft_small: {'Q1_id_benign': 1.0, 'Q2_id_attack': 0.95, 'Q3_ood_benign': 0.83, 'Q4_ood_attack': 0.65} leak {'Q1_id_benign': 0.0, 'Q2_id_attack': 0.0, 'Q3_ood_benign': 0.0, 'Q4_ood_attack': 0.07}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 8756.56it/s]
+TEST sft_aug: {'Q1_id_benign': 1.0, 'Q2_id_attack': 0.9, 'Q3_ood_benign': 0.88, 'Q4_ood_attack': 0.78} leak {'Q1_id_benign': 0.0, 'Q2_id_attack': 0.0, 'Q3_ood_benign': 0.0, 'Q4_ood_attack': 0.0}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 15588.81it/s]
+TEST mappo_cold_s0: {'Q1_id_benign': 0.95, 'Q2_id_attack': 0.85, 'Q3_ood_benign': 0.88, 'Q4_ood_attack': 0.57} leak {'Q1_id_benign': 0.0, 'Q2_id_attack': 0.1, 'Q3_ood_benign': 0.0, 'Q4_ood_attack': 0.17}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 15224.72it/s]
+TEST mappo_cold_s1: {'Q1_id_benign': 0.8, 'Q2_id_attack': 0.35, 'Q3_ood_benign': 0.79, 'Q4_ood_attack': 0.45} leak {'Q1_id_benign': 0.0, 'Q2_id_attack': 0.0, 'Q3_ood_benign': 0.0, 'Q4_ood_attack': 0.0}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 13212.85it/s]
+TEST mappo_warm_s0: {'Q1_id_benign': 1.0, 'Q2_id_attack': 1.0, 'Q3_ood_benign': 0.75, 'Q4_ood_attack': 0.77} leak {'Q1_id_benign': 0.0, 'Q2_id_attack': 0.0, 'Q3_ood_benign': 0.0, 'Q4_ood_attack': 0.03}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 14851.99it/s]
+TEST mappo_warm_s1: {'Q1_id_benign': 1.0, 'Q2_id_attack': 1.0, 'Q3_ood_benign': 0.62, 'Q4_ood_attack': 0.85} leak {'Q1_id_benign': 0.0, 'Q2_id_attack': 0.0, 'Q3_ood_benign': 0.0, 'Q4_ood_attack': 0.05}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 15486.40it/s]
+TEST mappoall_cold_s0: {'Q1_id_benign': 0.95, 'Q2_id_attack': 0.8, 'Q3_ood_benign': 0.92, 'Q4_ood_attack': 0.67} leak {'Q1_id_benign': 0.0, 'Q2_id_attack': 0.0, 'Q3_ood_benign': 0.0, 'Q4_ood_attack': 0.03}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 14971.54it/s]
+TEST mappoall_cold_s1: {'Q1_id_benign': 0.8, 'Q2_id_attack': 0.9, 'Q3_ood_benign': 0.75, 'Q4_ood_attack': 0.73} leak {'Q1_id_benign': 0.0, 'Q2_id_attack': 0.05, 'Q3_ood_benign': 0.0, 'Q4_ood_attack': 0.15}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 12974.38it/s]
+TEST mappoall_warm_s0: {'Q1_id_benign': 1.0, 'Q2_id_attack': 1.0, 'Q3_ood_benign': 0.75, 'Q4_ood_attack': 0.82} leak {'Q1_id_benign': 0.0, 'Q2_id_attack': 0.0, 'Q3_ood_benign': 0.0, 'Q4_ood_attack': 0.05}
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 9204.02it/s]
+TEST mappoall_warm_s1: {'Q1_id_benign': 1.0, 'Q2_id_attack': 1.0, 'Q3_ood_benign': 0.83, 'Q4_ood_attack': 0.82} leak {'Q1_id_benign': 0.0, 'Q2_id_attack': 0.0, 'Q3_ood_benign': 0.0, 'Q4_ood_attack': 0.05}

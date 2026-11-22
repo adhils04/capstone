@@ -1,0 +1,3 @@
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 12262.07it/s]
+[datagen] 169 unique attacks
+[datagen] wrote 96 pairs -> /Users/shivashant/Desktop/capstone-llm-defense/data/sft_pairs.jsonl

@@ -1,0 +1,46 @@
+{
+ "v6big_s0": {
+  "iter": 30,
+  "path": "/Users/shivashant/Desktop/capstone-llm-defense/runs/v6big_s0/ckpt30/defender"
+ },
+ "v6big_s1": {
+  "iter": 15,
+  "path": "/Users/shivashant/Desktop/capstone-llm-defense/runs/v6big_s1/ckpt15/defender"
+ },
+ "v6big_s2": {
+  "iter": 999,
+  "path": "/Users/shivashant/Desktop/capstone-llm-defense/runs/v6big_s2/defender"
+ },
+ "v6small_s0": {
+  "iter": 60,
+  "path": "/Users/shivashant/Desktop/capstone-llm-defense/runs/v6small_s0/ckpt60/defender"
+ },
+ "v6small_s1": {
+  "iter": 45,
+  "path": "/Users/shivashant/Desktop/capstone-llm-defense/runs/v6small_s1/ckpt45/defender"
+ },
+ "v6small_s2": {
+  "iter": 999,
+  "path": "/Users/shivashant/Desktop/capstone-llm-defense/runs/v6small_s2/defender"
+ },
+ "v6small_s3": {
+  "iter": 60,
+  "path": "/Users/shivashant/Desktop/capstone-llm-defense/runs/v6small_s3/ckpt60/defender"
+ },
+ "v6small_s4": {
+  "iter": 60,
+  "path": "/Users/shivashant/Desktop/capstone-llm-defense/runs/v6small_s4/ckpt60/defender"
+ },
+ "v7ref_s0": {
+  "iter": 15,
+  "path": "/Users/shivashant/Desktop/capstone-llm-defense/runs/v7ref_s0/ckpt15/defender"
+ },
+ "v7ref_s1": {
+  "iter": 15,
+  "path": "/Users/shivashant/Desktop/capstone-llm-defense/runs/v7ref_s1/ckpt15/defender"
+ },
+ "v7ref_s2": {
+  "iter": 60,
+  "path": "/Users/shivashant/Desktop/capstone-llm-defense/runs/v7ref_s2/ckpt60/defender"
+ }
+}

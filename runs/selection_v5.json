@@ -1,0 +1,18 @@
+{
+ "v5cold_s0": {
+  "iter": 15,
+  "path": "/Users/shivashant/Desktop/capstone-llm-defense/runs/v5cold_s0/ckpt15/defender"
+ },
+ "v5warm_s0": {
+  "iter": 30,
+  "path": "/Users/shivashant/Desktop/capstone-llm-defense/runs/v5warm_s0/ckpt30/defender"
+ },
+ "v5warm_s1": {
+  "iter": 999,
+  "path": "/Users/shivashant/Desktop/capstone-llm-defense/runs/v5warm_s1/defender"
+ },
+ "v5warm_s2": {
+  "iter": 999,
+  "path": "/Users/shivashant/Desktop/capstone-llm-defense/runs/v5warm_s2/defender"
+ }
+}

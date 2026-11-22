@@ -1,0 +1,10 @@
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 52774.56it/s]
+generated frozen_base 80
+generated v6small_s0 80
+generated v6big_s0 79
+ADAPT base: ASR all 32/239 (0.134); OOD-family 25/186
+ADAPT sft_small: ASR all 2/239 (0.008); OOD-family 2/186
+ADAPT sft_big: ASR all 1/239 (0.004); OOD-family 0/186
+ADAPT v5warm_s2: ASR all 1/239 (0.004); OOD-family 1/186
+ADAPT v6small_s0: ASR all 0/239 (0.000); OOD-family 0/186
+ADAPT v6big_s0: ASR all 3/239 (0.013); OOD-family 3/186

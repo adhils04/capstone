@@ -1,0 +1,42 @@
+{
+ "mappo_cold_s0": {
+  "iter": 45,
+  "path": "/Users/shivashant/Desktop/capstone-llm-defense/runs/mappo_cold_s0/ckpt45/defender",
+  "val_mean": 0.8416666666666667
+ },
+ "mappo_cold_s1": {
+  "iter": 60,
+  "path": "/Users/shivashant/Desktop/capstone-llm-defense/runs/mappo_cold_s1/defender",
+  "val_mean": 0.525
+ },
+ "mappo_warm_s0": {
+  "iter": 30,
+  "path": "/Users/shivashant/Desktop/capstone-llm-defense/runs/mappo_warm_s0/ckpt30/defender",
+  "val_mean": 0.8958333333333334
+ },
+ "mappo_warm_s1": {
+  "iter": 30,
+  "path": "/Users/shivashant/Desktop/capstone-llm-defense/runs/mappo_warm_s1/ckpt30/defender",
+  "val_mean": 0.9166666666666666
+ },
+ "mappoall_cold_s0": {
+  "iter": 60,
+  "path": "/Users/shivashant/Desktop/capstone-llm-defense/runs/mappoall_cold_s0/defender",
+  "val_mean": 0.8625
+ },
+ "mappoall_cold_s1": {
+  "iter": 45,
+  "path": "/Users/shivashant/Desktop/capstone-llm-defense/runs/mappoall_cold_s1/ckpt45/defender",
+  "val_mean": 0.8416666666666667
+ },
+ "mappoall_warm_s0": {
+  "iter": 60,
+  "path": "/Users/shivashant/Desktop/capstone-llm-defense/runs/mappoall_warm_s0/defender",
+  "val_mean": 0.9166666666666667
+ },
+ "mappoall_warm_s1": {
+  "iter": 60,
+  "path": "/Users/shivashant/Desktop/capstone-llm-defense/runs/mappoall_warm_s1/defender",
+  "val_mean": 0.9375
+ }
+}

@@ -1,0 +1,5 @@
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 10059.70it/s]
+[sft] 96 pairs, 2 epochs, 336 param tensors
+[sft] ep0 step20 loss=1.6645 12s
+[sft] ep1 step40 loss=0.6813 25s
+[sft] saved -> /Users/shivashant/Desktop/capstone-llm-defense/runs/sft_defender  (31s)

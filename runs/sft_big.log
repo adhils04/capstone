@@ -1,0 +1,13 @@
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 9816.78it/s]
+[sft] 400 pairs, 2 epochs, 336 param tensors
+[sft] ep0 step20 loss=1.2932 12s
+[sft] ep0 step40 loss=0.5909 25s
+[sft] ep0 step60 loss=0.5475 36s
+[sft] ep0 step80 loss=0.3553 47s
+[sft] ep0 step100 loss=0.3897 59s
+[sft] ep1 step120 loss=0.2979 70s
+[sft] ep1 step140 loss=0.2879 81s
+[sft] ep1 step160 loss=0.2555 93s
+[sft] ep1 step180 loss=0.2321 104s
+[sft] ep1 step200 loss=0.2710 115s
+[sft] saved -> runs/sft_big  (117s)
